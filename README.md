@@ -1,4 +1,4 @@
-# FE022-Epicode Settimana7 - Smartphone Jquery
+# FE022-Epicode Settimana7 - Smartphone Typescript
 Progettare un interfaccia di nome Smartphone, per rappresentare un telefono cellulare con contratto a ricarica.
 ##
 Tale interfaccia prevede due variabili d'istanza. 
